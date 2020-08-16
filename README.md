@@ -2,6 +2,7 @@
 TINKERCAD page: https://www.tinkercad.com/things/d80BGIRdoJX-smart-home/
 
 Components:
+
 1_Arduino Uno<br/>
 2_resistors<br/>
 3_Pushbutton<br/>
